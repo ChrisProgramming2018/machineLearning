@@ -1,5 +1,5 @@
-## machineLearning
+#machineLearning
 
-# Lesson 1 Linear Classification
-
+## Lesson 1 Linear Classification
+## Lesson 2 Linear Regression
 machine learning 2020
